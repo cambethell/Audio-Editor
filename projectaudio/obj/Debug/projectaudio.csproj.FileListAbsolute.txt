@@ -1,0 +1,13 @@
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\bin\Debug\projectaudio.exe.config
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\bin\Debug\projectaudio.exe
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\bin\Debug\projectaudio.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.Form1.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.Form2.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.Form3.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.Properties.Resources.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.threadDFTform.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.WindowForm.resources
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\projectaudio\projectaudio\obj\Debug\projectaudio.csproj.GenerateResource.Cache
